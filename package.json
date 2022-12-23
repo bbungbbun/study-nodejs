@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbungbbun/study-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbungbbun/study-nodejs/issues"
+  },
+  "homepage": "https://github.com/bbungbbun/study-nodejs#readme",
+  "dependencies": {
+    "sanitize-html": "^2.8.1"
+  }
+}
